@@ -1,3 +1,9 @@
+> [!NOTE]
+> Moved to [codeberg.org/rosvall/replace_ucode](https://codeberg.org/rosvall/replace_ucode)
+>
+> For reasons given [here](https://github.com/rosvall/goodbye-github)
+
+
 # replace_ucode
 Hacky script to replace Intel microcode in a UEFI ROM image.
 
